@@ -32,10 +32,9 @@
   </a>
 </div>
 
+<!--
 ##
-
 ### Featured
-
 <div style="display: inline-block">
   <a href="https://github.com/jv1303/e-saving">
     <img align="left" name="esaving" src="https://github-readme-stats.vercel.app/api/pin/?username=jv1303&repo=e-saving&theme=github_dark_dimmed"/>
@@ -44,8 +43,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jv1303&repo=order-registration&theme=github_dark_dimmed"/>
   </a>
 </div>
-
 ##
+-->
 
 ### Contact
   
