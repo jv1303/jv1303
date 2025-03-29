@@ -1,4 +1,4 @@
-💭 <i>The moment you get the first bug is when the fun begins</i>
+### 💭 <i>The moment you get the first bug is when the fun begins</i>
 
 - 🎓 Multiplatform Software Development student @ FATEC
 - ♟ Currently an intern working with <i>VFP</i> 9 and <i>SQL Server</i>
