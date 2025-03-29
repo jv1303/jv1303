@@ -25,15 +25,31 @@
 
 ### Statistics
 
-<div>
+<div style="display: inline-block">
   <a href="https://github.com/jv1303">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jv1303&show_icons=true&theme=date_night&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jv1303&layout=compact&theme=date_night">
+    <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=jv1303&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jv1303&layout=compact&theme=github_dark_dimmed">
+  </a>
 </div>
 
-### Contact
+##
 
-<div> 
+### Featured
+
+<div style="display: inline-block">
+  <a href="https://github.com/jv1303/e-saving">
+    <img align="left" name="esaving" src="https://github-readme-stats.vercel.app/api/pin/?username=jv1303&repo=e-saving&theme=github_dark_dimmed"/>
+  </a>
+  <a href="https://github.com/jv1303/order-registration">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jv1303&repo=order-registration&theme=github_dark_dimmed"/>
+  </a>
+</div>
+
+##
+
+### Contact
+  
+<div style="display: inline-block"> 
   <a href="https://discord.com/users/499665155622305792" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="mailto:victorserafim2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
