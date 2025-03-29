@@ -30,3 +30,23 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jv1303&show_icons=true&theme=date_night&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jv1303&layout=compact&theme=date_night">
 </div>
+
+### Contact
+
+<table>
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>📫 Email</td>
+    <td>victorserafim2003@gmail.com</td>
+  </tr>
+  <tr>
+    <td><img alt="Discord Logo" width="70px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/9/98/Discord_logo.svg/2560px-Discord_logo.svg.png"/></td>
+    <td>txxug</td>
+  </tr>
+</table>
+
+<!--
+  <br>
