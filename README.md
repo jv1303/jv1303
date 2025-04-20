@@ -3,6 +3,7 @@
 - 🎓 Multiplatform Software Development student @ FATEC
 - ♟ Currently an intern working with <i>VFP</i> 9 and <i>SQL Server</i>
 - 🎮 Passion for game development
+- 📚 Currently learning: Godot and Django
 
 ##
 
