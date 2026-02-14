@@ -1,3 +1,5 @@
+### About
+
 - 🎓 Multiplatform Software Development student @ FATEC
 - ♟ Systems Analyst working with <i>VFP</i> 9 and <i>SQL Server</i>
 - 🎮 Passion for game development
@@ -5,19 +7,21 @@
 ##
 
 ### Technologies
+
 #### Frameworks
-<div style="display: inline-block"><br>
+<div style="display: inline-block">
   <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
   <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" />
   <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-  <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
+  <!-- <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" /> -->
   <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-  <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-plain.svg" />
+  <!-- <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-plain.svg" /> -->
   <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thymeleaf/thymeleaf-original.svg" />
-  <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-</div>
+  <!-- <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" /> -->
+</div><br><br>
+
 #### Lenguages
-<div style="display: inline-block"><br>
+<div style="display: inline-block">
   <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
   <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
@@ -29,15 +33,19 @@
   <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-</div>
+</div><br><br>
+
 #### Databases
-<div style="display: inline-block"><br>
+<div style="display: inline-block">
   <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
   <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
   <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" />
   <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" />
-</div>
+</div><br><br>
+
+<!--
+##
 
 ### Statistics
 
@@ -47,7 +55,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jv1303&layout=compact&theme=github_dark_dimmed">
   </a>
 </div>
-
+-->
 <!--
 ##
 ### Featured
