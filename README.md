@@ -1,27 +1,42 @@
-### 💭 <i>The moment you get the first bug is when the fun begins</i>
-
 - 🎓 Multiplatform Software Development student @ FATEC
-- ♟ Currently an intern working with <i>VFP</i> 9 and <i>SQL Server</i>
+- ♟ Systems Analyst working with <i>VFP</i> 9 and <i>SQL Server</i>
 - 🎮 Passion for game development
-- 📚 Currently learning: Godot and Django
 
 ##
 
 ### Technologies
+#### Frameworks
 <div style="display: inline-block"><br>
-  <img align="left" alt="HTML5 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"/>
-  <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"/>
-  <img align="left" alt="JavaScript Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
-  <img align="left" alt="C Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg"/>
-  <img align="left" alt="C Plus Plus Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg"/>
-  <img align="left" alt="SQL Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg"/>
-  <img align="left" alt="SQL Server Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
-  <img align="left" alt="DotNet Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg"/>
-  <img align="left" alt="CSharp Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg"/>
-  <img align="left" alt="PHP Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg"/>
-  <img align="left" alt="Visual Foxpro Logo" style="width: 40px; heigth: 40px;" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Foxpro-icon.png"/>
-  <img align="left" alt="Godot Foxpro Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"/>
-  <img alt="GDevelop Logo" style="width: 40px; heigth: 40px;" src="https://forum.gdevelop.io/uploads/default/original/1X/0344165e7f6a1db1adf720b2fdee28201a9079d3.png"/>
+  <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" />
+  <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+  <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
+  <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+  <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-plain.svg" />
+  <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thymeleaf/thymeleaf-original.svg" />
+  <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+</div>
+#### Lenguages
+<div style="display: inline-block"><br>
+  <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
+  <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
+  <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Foxpro-icon.png" />
+  <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-plain.svg" />
+  <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+</div>
+#### Databases
+<div style="display: inline-block"><br>
+  <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+  <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
+  <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" />
+  <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" />
 </div>
 
 ### Statistics
