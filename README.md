@@ -44,7 +44,6 @@
   <img align="left" alt="CSS3 Logo" style="width: 40px; heigth: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" />
 </div><br><br>
 
-<!--
 ##
 
 ### Statistics
@@ -68,7 +67,7 @@
   </a>
 </div>
 ##
--->
+
 
 ### Contact
   
